@@ -18,6 +18,24 @@
 ## 🚀 Usage
 Use to train a model for predict Air Quality
 
+## Run
+## 🚀 Usage
+
+1. Clone this repository:  
+   ```bash
+   git clonehttps://github.com/NadeeshaMalshan/Air-quality-prediction
+   cd Air-quality-prediction
+   ```
+
+2. Open the notebook:  
+   ```bash
+   jupyter notebook group_pipeline.ipynb
+   ```
+
+3. Run the cells step by step to explore each preprocessing technique.
+
+---
+
 
 ## 📂 File Structure
 
